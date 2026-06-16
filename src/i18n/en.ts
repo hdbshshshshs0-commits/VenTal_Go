@@ -142,8 +142,8 @@ export const en: Translations = {
     telegram: 'Write on Telegram',
     email: 'Send an Email',
     website: 'Official Website',
-    telegramPlaceholder: '@vental_go_support',
-    emailPlaceholder: 'support@vental-go.com',
+    telegramPlaceholder: 'VenTal_Go',
+    emailPlaceholder: 'ventalsupport@gmail.com',
   },
   footer: {
     tagline: 'Taxi, food delivery and parcels in Kazakhstan.',
