@@ -86,8 +86,7 @@ export default function FeatureSection() {
           <div className="relative flex justify-center">
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-emerald-50 to-emerald-100 rounded-[2.5rem] scale-105 blur-xl" />
-              <div className="relative w-64 sm:w-72 bg-gray-900 rounded-[2.5rem] shadow-2xl overflow-hidden border-[3px] border-gray-800">
-                <div className="w-20 h-5 bg-gray-800 rounded-full mx-auto mt-2" />
+              <div className="relative w-64 sm:w-72 rounded-[2.5rem] shadow-2xl overflow-hidden">
                 <img
                   src={`/screenshot-${tabs.indexOf(active) + 1}.png`}
                   alt={`${data.title} App Screen`}
@@ -96,7 +95,6 @@ export default function FeatureSection() {
                     e.currentTarget.src = '/screenshot-1.png'
                   }}
                 />
-                <div className="h-2 bg-gray-900" />
               </div>
             </div>
           </div>
