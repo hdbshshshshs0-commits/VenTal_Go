@@ -156,9 +156,9 @@ export const en: Translations = {
     privacy: 'Privacy Policy',
     terms: 'Terms of Service',
     deleteAccount: 'Delete Account',
-    rights: '© 2024 VenTal Go. All rights reserved.',
+    rights: '© 2026 VenTal Go. All rights reserved.',
     country: 'Kazakhstan',
-    legal_info: 'VenTal Go LLP, registered in the Republic of Kazakhstan.',
+    legal_info: 'VenTal LLP, registered in the Republic of Kazakhstan.',
   },
   aboutPage: {
     title: 'About VenTal Go',
