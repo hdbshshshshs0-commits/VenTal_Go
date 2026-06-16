@@ -224,13 +224,13 @@ export const kk: Translations = {
       {
         title: 'Telegram',
         desc: 'Ең жылдам байланыс тәсілі. Бірнеше минут ішінде жауап береміз.',
-        value: '@vental_go_support',
+        value: '@VenTal_Go',
         action: 'Telegram-да жазу',
       },
       {
         title: 'Email',
         desc: 'Толық сұрауларға және құжаттамаға арналған.',
-        value: 'support@vental-go.com',
+        value: 'ventalsupport@gmail.com',
         action: 'Email жіберу',
       },
       {
