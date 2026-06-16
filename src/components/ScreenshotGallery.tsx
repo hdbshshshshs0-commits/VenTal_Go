@@ -25,20 +25,16 @@ export default function ScreenshotGallery() {
         <div className="fade-in fade-in-delay-3 flex flex-col items-center gap-8">
           <div className="relative w-64 sm:w-72 mx-auto">
             <div className="absolute inset-0 bg-gradient-to-b from-emerald-100 to-emerald-200 rounded-[3rem] blur-2xl opacity-60 scale-95" />
-            <div className="relative bg-gray-900 rounded-[3rem] shadow-2xl overflow-hidden border-[3px] border-gray-800">
-              <div className="w-24 h-5 bg-gray-800 rounded-full mx-auto mt-3" />
-              <div className="overflow-hidden">
-                <img
-                  key={active}
-                  src={`/screenshot-${screenshots[active]}.png`}
-                  alt={`VenTal Go Screenshot ${screenshots[active]}`}
-                  className="w-full object-cover transition-opacity duration-300"
-                  onError={(e) => {
-                    e.currentTarget.style.display = 'none'
-                  }}
-                />
-              </div>
-              <div className="h-2 bg-gray-900" />
+            <div className="relative rounded-[3rem] shadow-2xl overflow-hidden">
+              <img
+                key={active}
+                src={`/screenshot-${screenshots[active]}.png`}
+                alt={`VenTal Go Screenshot ${screenshots[active]}`}
+                className="w-full object-cover transition-opacity duration-300"
+                onError={(e) => {
+                  e.currentTarget.style.display = 'none'
+                }}
+              />
             </div>
           </div>
 
