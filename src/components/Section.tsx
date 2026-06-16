@@ -17,7 +17,6 @@ export default function Section({ children, className = '', id }: SectionProps) 
             entry.target.querySelectorAll('.fade-in').forEach((el, i) => {
               setTimeout(() => el.classList.add('visible'), i * 80)
             })
-            observer.disconnect()
           }
         })
       },
