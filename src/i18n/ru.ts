@@ -244,7 +244,7 @@ export const ru = {
     hoursTitle: 'Часы работы поддержки',
     hours: 'Ежедневно, 24/7',
     responseTitle: 'Время ответа',
-    responseTelegram: 'Telegram: до 30 минут',
+    responseTelegram: 'Telegram: до 1-2 часов',
     responseEmail: 'Email: до 24 часов',
   },
   legalBadge: 'Правовые документы',
