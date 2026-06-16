@@ -246,7 +246,7 @@ export const kk: Translations = {
     hoursTitle: 'Қолдау жұмыс уақыты',
     hours: 'Күн сайын, 24/7',
     responseTitle: 'Жауап уақыты',
-    responseTelegram: 'Telegram: 30 минутқа дейін',
+    responseTelegram: 'Telegram: 1-2 сағатқа дейін',
     responseEmail: 'Email: 24 сағатқа дейін',
   },
   legalBadge: 'Заңды құжаттар',
