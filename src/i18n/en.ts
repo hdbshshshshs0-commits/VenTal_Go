@@ -214,8 +214,8 @@ export const en: Translations = {
     helpText: 'If you are having trouble deleting your account or have questions — contact our support team.',
     telegram: 'Telegram Support',
     email: 'Send an Email',
-    telegramPlaceholder: '@vental_go_support',
-    emailPlaceholder: 'support@vental-go.com',
+    telegramPlaceholder: '@VenTal_Go',
+    emailPlaceholder: 'ventalsupport@gmail.com',
   },
   supportPage: {
     title: 'Support',
