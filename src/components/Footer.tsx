@@ -80,7 +80,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://t.me/vental_go_support"
+                  href="https://t.me/VenTal_Go"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-sm text-gray-500 hover:text-emerald-400 transition-colors duration-200"
@@ -91,7 +91,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:support@vental-go.com"
+                  href="mailto:ventalsupport@gmail.com"
                   className="flex items-center gap-2 text-sm text-gray-500 hover:text-emerald-400 transition-colors duration-200"
                 >
                   <Mail size={14} />
