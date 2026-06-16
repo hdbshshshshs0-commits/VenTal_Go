@@ -98,7 +98,7 @@ export default function HomePage() {
 
           <div className="fade-in fade-in-delay-3 grid sm:grid-cols-2 gap-4 max-w-xl mx-auto">
             <a
-              href="https://t.me/vental_go_support"
+              href="https://t.me/VenTal_Go"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 px-6 py-4 bg-emerald-600 text-white font-semibold rounded-2xl hover:bg-emerald-700 active:scale-95 transition-all duration-200 shadow-lg shadow-emerald-100"
@@ -107,7 +107,7 @@ export default function HomePage() {
               {t.contact.telegram}
             </a>
             <a
-              href="mailto:support@vental-go.com"
+              href="ventalsupport@gmail.com"
               className="flex items-center justify-center gap-3 px-6 py-4 bg-white text-gray-700 font-semibold rounded-2xl border border-gray-200 hover:border-emerald-200 hover:text-emerald-700 hover:bg-emerald-50 active:scale-95 transition-all duration-200"
             >
               <Mail size={20} />
