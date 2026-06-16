@@ -142,8 +142,8 @@ export const kk: Translations = {
     telegram: 'Telegram-да жазу',
     email: 'Email жіберу',
     website: 'Ресми сайт',
-    telegramPlaceholder: '@vental_go_support',
-    emailPlaceholder: 'support@vental-go.com',
+    telegramPlaceholder: '@VenTal_Go',
+    emailPlaceholder: 'ventalsupport@gmail.com',
   },
   footer: {
     tagline: 'Қазақстандағы такси, тамақ жеткізу және бумалар.',
@@ -214,8 +214,8 @@ export const kk: Translations = {
     helpText: 'Аккаунтты жоюда қиындық туындаса немесе сұрақтарыңыз болса — қолдау қызметімізге хабарласыңыз.',
     telegram: 'Telegram қолдауы',
     email: 'Email жіберу',
-    telegramPlaceholder: '@vental_go_support',
-    emailPlaceholder: 'support@vental-go.com',
+    telegramPlaceholder: '@VenTal_Go',
+    emailPlaceholder: 'ventalsupport@gmail.com',
   },
   supportPage: {
     title: 'Қолдау',
