@@ -156,9 +156,9 @@ export const kk: Translations = {
     privacy: 'Құпиялылық саясаты',
     terms: 'Пайдалану шарттары',
     deleteAccount: 'Аккаунтты жою',
-    rights: '© 2024 VenTal Go. Барлық құқықтар қорғалған.',
+    rights: '© 2026 VenTal Go. Барлық құқықтар қорғалған.',
     country: 'Қазақстан',
-    legal_info: '«VenTal Go» ЖШС, Қазақстан Республикасында тіркелген.',
+    legal_info: '«VenTal» ЖШС, Қазақстан Республикасында тіркелген.',
   },
   aboutPage: {
     title: 'VenTal Go туралы',
