@@ -222,13 +222,13 @@ export const ru = {
       {
         title: 'Telegram',
         desc: 'Самый быстрый способ связи. Отвечаем в течение нескольких минут.',
-        value: '@vental_go_support',
+        value: '@VenTal_Go',
         action: 'Написать в Telegram',
       },
       {
         title: 'Email',
         desc: 'Для подробных обращений и документации.',
-        value: 'support@vental-go.com',
+        value: 'ventalsupport@gmail.com',
         action: 'Написать на Email',
       },
       {
