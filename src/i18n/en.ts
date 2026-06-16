@@ -246,7 +246,7 @@ export const en: Translations = {
     hoursTitle: 'Support hours',
     hours: 'Daily, 24/7',
     responseTitle: 'Response time',
-    responseTelegram: 'Telegram: up to 30 minutes',
+    responseTelegram: 'Telegram: up to 1-2 hours',
     responseEmail: 'Email: up to 24 hours',
   },
   legalBadge: 'Legal Documents',
