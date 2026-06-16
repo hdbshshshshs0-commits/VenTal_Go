@@ -224,13 +224,13 @@ export const en: Translations = {
       {
         title: 'Telegram',
         desc: 'The fastest way to reach us. We reply within minutes.',
-        value: '@vental_go_support',
+        value: '@VenTal_Go',
         action: 'Write on Telegram',
       },
       {
         title: 'Email',
         desc: 'For detailed inquiries and documentation.',
-        value: 'support@vental-go.com',
+        value: 'ventalsupport@gmail.com',
         action: 'Send an Email',
       },
       {
