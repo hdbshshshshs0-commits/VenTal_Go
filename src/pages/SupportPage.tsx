@@ -10,8 +10,8 @@ const channelIcons = [
 ]
 
 const channelLinks = [
-  'https://t.me/vental_go_support',
-  'mailto:support@vental-go.com',
+  'https://t.me/VenTal_Go',
+  'mailto:ventalsupport@gmail.com',
   'https://vental-go.com',
 ]
 
