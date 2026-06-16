@@ -32,7 +32,10 @@ export default function FAQSection() {
               style={{ transitionDelay: `${i * 50}ms` }}
             >
               <button
-                onClick={() => setOpen(open === i ? null : i)}
+                onClick={(e) => {
+                  e.currentTarget.closest('.fade-in')?.classList.add('visible')
+                  setOpen(open === i ? null : i)
+                }}
                 className="w-full flex items-center justify-between gap-4 px-6 py-5 text-left"
               >
                 <span className={`font-semibold text-sm sm:text-base leading-snug transition-colors duration-200 ${
