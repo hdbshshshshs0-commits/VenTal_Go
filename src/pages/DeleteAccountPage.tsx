@@ -82,7 +82,7 @@ export default function DeleteAccountPage() {
             <p className="text-gray-500 text-sm leading-relaxed mb-6">{dp.helpText}</p>
             <div className="grid sm:grid-cols-2 gap-4">
               <a
-                href="https://t.me/vental_go_support"
+                href="https://t.me/VenTal_Go"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 px-5 py-4 bg-emerald-600 text-white rounded-xl hover:bg-emerald-700 active:scale-95 transition-all duration-200 font-semibold text-sm shadow-sm"
@@ -94,7 +94,7 @@ export default function DeleteAccountPage() {
                 </div>
               </a>
               <a
-                href="mailto:support@vental-go.com"
+                href="mailto:ventalsupport@gmail.com"
                 className="flex items-center gap-3 px-5 py-4 bg-white border border-gray-200 text-gray-700 rounded-xl hover:border-emerald-200 hover:bg-emerald-50 active:scale-95 transition-all duration-200 font-semibold text-sm"
               >
                 <Mail size={18} className="text-emerald-600" />
