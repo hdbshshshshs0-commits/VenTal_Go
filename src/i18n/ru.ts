@@ -156,7 +156,7 @@ export const ru = {
     deleteAccount: 'Удалить аккаунт',
     rights: '© 2026 VenTal Go. Все права защищены.',
     country: 'Казахстан',
-    legal_info: 'ТОО «VenTal Go», зарегистрировано в Республике Казахстан.',
+    legal_info: 'ТОО «VenTal», зарегистрировано в Республике Казахстан.',
   },
   aboutPage: {
     title: 'О VenTal Go',
